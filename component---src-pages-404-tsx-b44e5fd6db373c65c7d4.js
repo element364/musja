@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{"i6+/":function(e,a,t){"use strict";t.r(a);var n=t("q1tI"),l=t.n(n),c=t("9eSz"),i=t.n(c),r=t("soUV"),u=t("1Yd/");a.default=function(e){var a=e.data;return l.a.createElement(r.a,null,l.a.createElement(u.a,{title:"Стрраница не найдена"}),l.a.createElement("p",null,"Извините, но страница, которую Вы ищете, не существует."),l.a.createElement("div",null,l.a.createElement(i.a,{fluid:a.cat404.childImageSharp.fluid,style:{height:300}})))}}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-b44e5fd6db373c65c7d4.js.map

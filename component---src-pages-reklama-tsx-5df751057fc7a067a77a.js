@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{PjdG:function(e,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return o}));var a=t("q1tI"),l=t.n(a),r=t("soUV"),u=t("1Yd/"),c=t("4lS8");function o(){return l.a.createElement(r.a,null,l.a.createElement(u.a,{title:"Об авторе - Муськин блог"}),l.a.createElement("p",null,"Рады рассмотреть варианты сотрудничества."),l.a.createElement("p",null,"Давайте обсудим:"),l.a.createElement(c.a,null))}}}]);
+//# sourceMappingURL=component---src-pages-reklama-tsx-5df751057fc7a067a77a.js.map

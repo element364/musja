@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{iShf:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),l=t.n(a),c=t("soUV"),r=t("1Yd/"),u=t("4lS8");n.default=function(){return l.a.createElement(c.a,null,l.a.createElement(r.a,{title:"Напиши Муське"}),l.a.createElement("p",null,"Пишите!"),l.a.createElement(u.a,null))}}}]);
+//# sourceMappingURL=component---src-pages-contact-us-tsx-5d6566e51acd86a72aba.js.map
